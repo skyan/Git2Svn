@@ -1,6 +1,6 @@
 # git2svn
 
-提供git到svn的单向同步，基于[HikoQiu/Git2Svn][https://github.com/HikoQiu/Git2Svn]代码，但做了一些改进，支持更多参数，
+提供git到svn的单向同步，基于[HikoQiu/Git2Svn](https://github.com/HikoQiu/Git2Svn)代码，但做了一些改进，支持更多参数，
 
 ## bash同步脚本
 
